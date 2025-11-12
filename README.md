@@ -1,4 +1,4 @@
-# Langchain RAG Medical Assistant Frontend - [Demo](https://youtu.be/Yfs_S1sDqpg)
+# Langchain RAG Medical Assistant Frontend - [Demo](https://youtu.be/4pVKQc3EyMg)
 
 A simple and effective React frontend for interacting with the RAG Medical Assistant backend.
 
